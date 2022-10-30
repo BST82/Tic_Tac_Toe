@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include "dech.h"
+
 using namespace std ;
 
 // array length with 9
